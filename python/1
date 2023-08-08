@@ -1,0 +1,5 @@
+def lambda_handler(event,context):
+	print("hello World!!!")
+
+
+lambda_hander(a,b)
